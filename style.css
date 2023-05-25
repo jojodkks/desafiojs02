@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Chokokutai&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+input{
+    background-color: brown;
+    color:aliceblue;
+    padding: 1px;
+    border-width: 0px;
+}
+
+ 
+
+ 
